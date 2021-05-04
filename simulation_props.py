@@ -2,7 +2,7 @@
 dictionaries of Illustris simulation properties
 """
 
-from project_settings import base_savepath
+from .project_settings import base_savepath
 
 import numpy as np
 
